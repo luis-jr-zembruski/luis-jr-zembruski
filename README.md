@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**luis-jr-zembruski/luis-jr-zembruski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ GitHub de Luís Júnior Rodrigues Zembruski
+ 
+ ---------------------------------------------------------
+Atualmente meu cargo é de Técnico em informática na Prefeitura de Ibiraiaras, RS - Brasil, mas o trabalho é mais focado em suporte a usuário, redes, servidores, microcomputadores e notebooks, gerenciamento de demandas para backend e frontend, seja tanto nos sistemas desktops quanto em website e sistemas web.
 
-Here are some ideas to get you started:
+Estou na Prefeitura desde Janeiro de 2013, porém, estou sempre me atualizando, estudando e criando projetos de desenvolvimento web e pretendo iniciar com o desenvolvimento mobile. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente já desenvolvo sistemas web responsivos  que funcionam tanto em desktop quanto em mobile, mas ainda não desenvolvo aplicativos nativos para dispositivos mobile, sendo está uma skill a ser conquistada no decorrer dos meses.
+
+Estou a busca de conhecimento constante e tenho interesse em dedicar a maior parte do tempo desenvolvendo aplicações, tanto web quanto mobile.
+
+------------------------------------------------------------
+Procuro projetos as quais eu consiga agregar valor através de minhas skills (HTML5, CSS3), e também, se alguém estiver interessado em me ajudar com os projetos que faço e disponibilizo aqui no GitHub, basta entrar em <a href=˜mailto:luis.jr.zembruski@icloud.com˜>contato</a> e bora formar uma equipe :)
+
+------------------------------------------------------------
