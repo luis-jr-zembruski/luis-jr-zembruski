@@ -12,6 +12,6 @@ Atualmente já desenvolvo sistemas web responsivos  que funcionam tanto em deskt
 Estou a busca de conhecimento constante e tenho interesse em dedicar a maior parte do tempo desenvolvendo aplicações, tanto web quanto mobile.
 
 ------------------------------------------------------------
-Procuro projetos as quais eu consiga agregar valor através de minhas skills (HTML5, CSS3, JS), e também, se alguém estiver interessado em me ajudar com os projetos que faço e disponibilizo aqui no GitHub, basta entrar em contato (luis.jr.zembruski@icloud.com) e bora formar uma equipe :)
+Procuro projetos as quais eu consiga agregar valor através de minhas skills (HTML5, CSS3, JS, Node.JS, ReactJS, React Native), e também, se alguém estiver interessado em me ajudar com os projetos que faço e disponibilizo aqui no GitHub, basta entrar em contato (luis.jr.zembruski@icloud.com) e bora formar uma equipe :)
 
 ------------------------------------------------------------
