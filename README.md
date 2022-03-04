@@ -1,17 +1,44 @@
-### Hi there 👋
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Luís Jr. R. Zembruski</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luis-jr-zembruski&color=yellow" alt="Profile views" /> </p>
 
- GitHub de Luís Júnior Rodrigues Zembruski
- 
- ---------------------------------------------------------
-Atualmente meu cargo é de Técnico em informática na Prefeitura de Ibiraiaras, RS - Brasil, mas o trabalho é mais focado em suporte a usuário, redes, servidores, microcomputadores e notebooks, gerenciamento de demandas para backend e frontend, seja tanto nos sistemas desktops quanto em website e sistemas web.
+- 🔥 Junior Web Developer, starting in this universe
 
-Estou na Prefeitura desde Janeiro de 2013, porém, estou sempre me atualizando, estudando e criando projetos de desenvolvimento web e pretendo iniciar com o desenvolvimento mobile. 
+- 🔭 I’m currently working at [Prefeitura de Ibiraiaras](https://www.ibiraiaras.rs.gov.br/)
 
-Atualmente já desenvolvo sistemas web responsivos  que funcionam tanto em desktop quanto em mobile, mas ainda não desenvolvo aplicativos nativos para dispositivos mobile, sendo está uma skill a ser conquistada no decorrer dos meses.
+- 👨‍💻 Currently I work as a Computer Technician, looking for my first opportunity in Web Development
 
-Estou a busca de conhecimento constante e tenho interesse em dedicar a maior parte do tempo desenvolvendo aplicações, tanto web quanto mobile.
+- 💬 Ask me about **JavaScript, HTML, CSS, ReactJS**
 
-------------------------------------------------------------
-Procuro projetos as quais eu consiga agregar valor através de minhas skills (HTML5, CSS3, JS, ReactJS), e também, se alguém estiver interessado em me ajudar com os projetos que faço e disponibilizo aqui no GitHub, basta entrar em contato (luis.jr.zembruski@icloud.com) e bora formar uma equipe :)
+<br><br>
 
-------------------------------------------------------------
+## 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=luis-jr-zembruski&show_icons=true&theme=vision-friendly-dark" alt="luis's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-jr-zembruski&layout=compact&theme=vision-friendly-dark" alt="luis's most languages"/>
+</p>
+
+<br><br>
+
+## 👨🏽‍🦲 &nbsp;Social Links
+
+<p align="left" style="background:yellow">
+<a href="https://www.linkedin.com/in/luis-junior-rodrigues-zembruski/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-luis-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/luis.jr.zembruski/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-luis-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
