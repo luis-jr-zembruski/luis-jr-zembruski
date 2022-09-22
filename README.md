@@ -3,11 +3,11 @@
 
 - 🔥 Junior Web Developer, starting in this universe
 
-- 🔭 I’m currently working at [Prefeitura de Ibiraiaras](https://www.ibiraiaras.rs.gov.br/)
+- 🔭 I’m currently working at [Atua Sistemas de Informação](https://www.atua.com.br/)
 
-- 👨‍💻 Currently I work as a Computer Technician, looking for my first opportunity in Web Development
+- 👨‍💻 Currently I work as a Full Stack Developer
 
-- 💬 Ask me about **JavaScript, HTML, CSS, ReactJS**
+- 💬 Ask me about **JavaScript, HTML, CSS, PHP, jQuery**
 
 <br><br>
 
