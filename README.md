@@ -23,15 +23,6 @@
 
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=luis-jr-zembruski&show_icons=true&theme=vision-friendly-dark" alt="luis's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-jr-zembruski&layout=compact&theme=vision-friendly-dark" alt="luis's most languages"/>
-</p>
-
-<br><br>
-
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
